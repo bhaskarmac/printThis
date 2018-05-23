@@ -1,2 +1,3 @@
-# printThis
-A simple plugin to print
+# PrintThis
+
+A simple plugin to print the selected DOM element
